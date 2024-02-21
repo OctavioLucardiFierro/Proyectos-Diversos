@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.galery{
+    display: flex;
+    gap: 1rem;
+}
+
+.galery>div{
+    background-color: aliceblue;
+    flex: 1;
+    overflow: hidden;
+    border-radius: 1rem;
+    width: 200px;
+}
+
+img{
+    width: 100%;
+    transition: all .5s;
+}
+
+img:hover{
+    transform: scale(1.4) rotate(12deg);
+}
+
