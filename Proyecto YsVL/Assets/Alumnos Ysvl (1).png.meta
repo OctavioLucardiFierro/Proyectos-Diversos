@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: c26f86542cc51624b8de66b282213d46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2998031168812095583
+    second: Alumnos Ysvl (1)_0
+  - first:
+      213: -8455913473127112330
+    second: Alumnos Ysvl (1)_1
+  - first:
+      213: 5229135364033344606
+    second: Alumnos Ysvl (1)_2
+  - first:
+      213: 2416519931333270658
+    second: Alumnos Ysvl (1)_3
+  - first:
+      213: 5945915944673968529
+    second: Alumnos Ysvl (1)_4
+  - first:
+      213: -587405203644046118
+    second: Alumnos Ysvl (1)_5
+  - first:
+      213: -6597355228629997323
+    second: Alumnos Ysvl (1)_6
+  - first:
+      213: 8048986262851912345
+    second: Alumnos Ysvl (1)_7
+  - first:
+      213: 8258574674132121068
+    second: Alumnos Ysvl (1)_8
+  - first:
+      213: -7435299213842191570
+    second: Alumnos Ysvl (1)_9
+  - first:
+      213: -2380248598047812028
+    second: Alumnos Ysvl (1)_10
+  - first:
+      213: -3850702027251493165
+    second: Alumnos Ysvl (1)_11
+  - first:
+      213: -7171196860591945218
+    second: Alumnos Ysvl (1)_12
+  - first:
+      213: 1236847038439125322
+    second: Alumnos Ysvl (1)_13
+  - first:
+      213: -4393781507968476150
+    second: Alumnos Ysvl (1)_14
+  - first:
+      213: 6282731418089791131
+    second: Alumnos Ysvl (1)_15
+  - first:
+      213: 8470724940681837770
+    second: Alumnos Ysvl (1)_16
+  - first:
+      213: -7187672225604568341
+    second: Alumnos Ysvl (1)_17
+  - first:
+      213: 8681068294918000723
+    second: Alumnos Ysvl (1)_18
+  - first:
+      213: 3341525456703465619
+    second: Alumnos Ysvl (1)_19
+  - first:
+      213: 576617083187360253
+    second: Alumnos Ysvl (1)_20
+  - first:
+      213: 755649800552141726
+    second: Alumnos Ysvl (1)_21
+  - first:
+      213: 3800138842291250866
+    second: Alumnos Ysvl (1)_22
+  - first:
+      213: -6709369820344748352
+    second: Alumnos Ysvl (1)_23
+  - first:
+      213: -5381388675544437700
+    second: Alumnos Ysvl (1)_24
+  - first:
+      213: -2634011482471266441
+    second: Alumnos Ysvl (1)_25
+  - first:
+      213: -4948391407618831970
+    second: Alumnos Ysvl (1)_26
+  - first:
+      213: 2077644424711455098
+    second: Alumnos Ysvl (1)_27
+  - first:
+      213: -1070605449552141395
+    second: Alumnos Ysvl (1)_28
+  - first:
+      213: 2589655052936902898
+    second: Alumnos Ysvl (1)_29
+  - first:
+      213: -7239174150452528484
+    second: Alumnos Ysvl (1)_30
+  - first:
+      213: 5202734506270695748
+    second: Alumnos Ysvl (1)_31
+  - first:
+      213: -1163084919881781714
+    second: Alumnos Ysvl (1)_32
+  - first:
+      213: 2544712114713861823
+    second: Alumnos Ysvl (1)_33
+  - first:
+      213: 2632492038656438246
+    second: Alumnos Ysvl (1)_34
+  - first:
+      213: 8528078715702280941
+    second: Alumnos Ysvl (1)_35
+  - first:
+      213: -7387212817392083904
+    second: Alumnos Ysvl (1)_36
+  - first:
+      213: 8141392859769378833
+    second: Alumnos Ysvl (1)_37
+  - first:
+      213: 5069448154697377812
+    second: Alumnos Ysvl (1)_38
+  - first:
+      213: 3622699393536261090
+    second: Alumnos Ysvl (1)_39
+  - first:
+      213: 4020645362316294539
+    second: Alumnos Ysvl (1)_40
+  - first:
+      213: -3634199957497617499
+    second: Alumnos Ysvl (1)_41
+  - first:
+      213: 2524512212569405107
+    second: Alumnos Ysvl (1)_42
+  - first:
+      213: -4410059563008063619
+    second: Alumnos Ysvl (1)_43
+  - first:
+      213: -3994720606411418160
+    second: Alumnos Ysvl (1)_44
+  - first:
+      213: 8049754833946669647
+    second: Alumnos Ysvl (1)_45
+  - first:
+      213: 6997425151912932376
+    second: Alumnos Ysvl (1)_46
+  - first:
+      213: -697310944244897961
+    second: Alumnos Ysvl (1)_47
+  - first:
+      213: -7728985587563652507
+    second: Alumnos Ysvl (1)_48
+  - first:
+      213: 2088105116199802182
+    second: Alumnos Ysvl (1)_49
+  - first:
+      213: 3800954309266455465
+    second: Alumnos Ysvl (1)_50
+  - first:
+      213: 4533910190336185416
+    second: Alumnos Ysvl (1)_51
+  - first:
+      213: 4687554868610713308
+    second: Alumnos Ysvl (1)_52
+  - first:
+      213: -2233717984567886576
+    second: HunterIdle
+  - first:
+      213: 3211491936574299112
+    second: HunterIdle1
+  - first:
+      213: -521880987109377292
+    second: HunterIdle2
+  - first:
+      213: 1000029017153641041
+    second: HunterIdle4
+  - first:
+      213: 3097766118155277523
+    second: HunterIdle(1)
+  - first:
+      213: -6114889751750964909
+    second: HunterIdle(3)
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e765498ad466d0800000000000000
+      internalID: -2998031168812095583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a1de5f7f86aa80800000000000000
+      internalID: -8455913473127112330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 157
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f3af88ee919840800000000000000
+      internalID: 5229135364033344606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c55c30314398120800000000000000
+      internalID: 2416519931333270658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 157
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1918f928c03248250800000000000000
+      internalID: 5945915944673968529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a499541e19d7f0800000000000000
+      internalID: -587405203644046118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 157
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f86174bf5c7174a0800000000000000
+      internalID: -6597355228629997323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99289475c5eb3bf60800000000000000
+      internalID: 8048986262851912345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 155
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5beaa09e95c9270800000000000000
+      internalID: 8258574674132121068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 154
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be13842c280d890800000000000000
+      internalID: -7435299213842191570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 155
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461d3cd288a7fed0800000000000000
+      internalID: -2380248598047812028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 154
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65cc978ee8f8ac0800000000000000
+      internalID: -3850702027251493165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9450e237aca7c90800000000000000
+      internalID: -7171196860591945218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4178af04d92a2110800000000000000
+      internalID: 1236847038439125322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 125
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdbdc6ff62603c0800000000000000
+      internalID: -4393781507968476150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e9d6affeeb03750800000000000000
+      internalID: 6282731418089791131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf167247f0e8570800000000000000
+      internalID: 8470724940681837770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 124
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf5e65132404c90800000000000000
+      internalID: -7187672225604568341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 125
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3505e75be99597870800000000000000
+      internalID: 8681068294918000723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 124
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982cbed2bb7f5e20800000000000000
+      internalID: 3341525456703465619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 123
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1fdce9e2e800800800000000000000
+      internalID: 576617083187360253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9351807d7b9c7a00800000000000000
+      internalID: 755649800552141726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b62fef942eccb430800000000000000
+      internalID: 3800138842291250866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 122
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ff9732b783e2a0800000000000000
+      internalID: -6709369820344748352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c2ddbe2877155b0800000000000000
+      internalID: -5381388675544437700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 93
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770005238c127bd0800000000000000
+      internalID: -2634011482471266441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 94
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99c8438b38c35bb0800000000000000
+      internalID: -4948391407618831970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 93
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a714f70b89645dc10800000000000000
+      internalID: 2077644424711455098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e8d414027421f0800000000000000
+      internalID: -1070605449552141395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 93
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87911dc8d40f320800000000000000
+      internalID: 2589655052936902898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 94
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a36170779498b90800000000000000
+      internalID: -7239174150452528484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 93
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441aeead773d33840800000000000000
+      internalID: 5202734506270695748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e25da7d64ebdfe0800000000000000
+      internalID: -1163084919881781714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 91
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe17259f22a05320800000000000000
+      internalID: 2544712114713861823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_34
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 92
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef2926cf8d788420800000000000000
+      internalID: 2632492038656438246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 91
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de201028862d95670800000000000000
+      internalID: 8528078715702280941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd12be4195b7990800000000000000
+      internalID: -7387212817392083904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 60
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189477cba90cf070800000000000000
+      internalID: 8141392859769378833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 61
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4182ff3dc3c4a5640800000000000000
+      internalID: 5069448154697377812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 60
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb70cf87e9664230800000000000000
+      internalID: 3622699393536261090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 61
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b893fac97a33cc730800000000000000
+      internalID: 4020645362316294539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 60
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36d9ab46ab09dc0800000000000000
+      internalID: -3634199957497617499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_42
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 61
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b55d5b7ed80320800000000000000
+      internalID: 2524512212569405107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 60
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77079461325cc2c0800000000000000
+      internalID: -4410059563008063619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51aedf5c6ef88c0800000000000000
+      internalID: -3994720606411418160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 58
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ff5e3f5976bf60800000000000000
+      internalID: 8049754833946669647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814772a0a19db1160800000000000000
+      internalID: 6997425151912932376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 58
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576a460467a256f0800000000000000
+      internalID: -697310944244897961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 29
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a972bde802db490800000000000000
+      internalID: -7728985587563652507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_49
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645d3c83a807afc10800000000000000
+      internalID: 2088105116199802182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab31535ec3bfb430800000000000000
+      internalID: 3800954309266455465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441382eb4fabee30800000000000000
+      internalID: 4533910190336185416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alumnos Ysvl (1)_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c1b8315a8d0140800000000000000
+      internalID: 4687554868610713308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfd69e35d3001e0800000000000000
+      internalID: -2233717984567886576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebda8ea6e2819c20800000000000000
+      internalID: 3211491936574299112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab05cd108e1c8f0800000000000000
+      internalID: -521880987109377292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 24
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a968cb711d0ed00800000000000000
+      internalID: 1000029017153641041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle(1)
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d2ed2fd97dfa20800000000000000
+      internalID: 3097766118155277523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HunterIdle(3)
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359053a3b2c832ba0800000000000000
+      internalID: -6114889751750964909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
