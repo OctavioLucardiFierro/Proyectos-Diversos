@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Item
   - PJ
+  - VerAlHunter
+  - Inventario
   layers:
   - Default
   - TransparentFX
